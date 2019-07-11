@@ -36,8 +36,7 @@ export default [{
         <i className="fab fa-js"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk">Blog</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Geovica/dev-landing-page">More</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Geovica/vuex-boilterplate.git">More</a>
       </div>
     </div>
   )
@@ -115,8 +114,7 @@ export default [{
         <i className="fab fa-sass"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="#">NPM</a>
-        <a target="_blank" rel="noopener noreferrer" href="#">More</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Geovica/geordize">More</a>
       </div>
     </div>
   )
