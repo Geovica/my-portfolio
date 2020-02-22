@@ -25,8 +25,8 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I like <span className="highlight">JavaScript</span> and
-              everything web.
+              I am a self taught <span className="highlight">Full Stack Developer</span> and
+              a <span className="highlight">Eutress Seeker</span>
             </p>
             <p>
               When my dev senses kick-in I build presumably{' '}
@@ -39,7 +39,7 @@ const AboutPage = (props, context) => {
               I built this site <span className="highlight">from scratch</span>.
               By scratch, I mean <i>absolutely from scratch</i>{' '}
               <span className="highlight">
-                without any UI library/framework
+              using ReactJs and deployed on AWS Amplify
               </span>{' '}
               (except React though) and had so much fun along the way.
             </p>
