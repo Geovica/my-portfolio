@@ -41,10 +41,10 @@ const AboutPage = (props, context) => {
               <span className="highlight">
               using ReactJs and deployed on AWS Amplify
               </span>{' '}
-              (except React though) and had so much fun along the way.
+              and had so much fun along the way.
             </p>
             <p>
-              React-Redux, Vuejs,  Node.js, Docker and AWS
+              Laravel, React-Redux, Vuejs,  Node.js, Git, Docker and AWS
              are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
             </p>
             <p className="text-emoji" style={{ color: colorPrimary }}>
