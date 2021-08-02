@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://geotechee.com/",
   "scripts": {
+    "prestart": "npm run build",
     "start": "node server/server.js",
     "start:prod": "ENV=prod node scripts/start.js",
     "clean": "rm -rf build",
