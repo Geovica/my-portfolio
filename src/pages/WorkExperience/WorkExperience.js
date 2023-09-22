@@ -24,23 +24,26 @@ const WorkExperiencePage = (props, context) => {
         <h1 style={{ color: colorPrimary }}>WorkExperience</h1>
         <div className="work-experience-wrapper">
           <div className="work-experience-content" style={{ color: textPrimary }}>
-            <h3>Freelance Developer Web Developer</h3>
-            <p>Company Name: Online Jobs.ph</p>
-            <p>Dates Employed 2015 – Present(Small Tasks Only)</p>
-            <p>Duration: 6 yrs</p>
-            <h3>Full-Stack Developer</h3>
-            <p>Company name: Taktyl Studios</p>
-            <p>Dates Employed Nov 2019 – Apr 2021</p>
-            <p>Duration: 1 yr 6 mos</p>
-            <h3>Frontend Developer</h3>
-            <p>Company name: Gamesys</p>
-            <p>Dates Employed Oct 2018 – Nov 2019</p>
-            <p>Duration: 1 yr 2 mos</p>
+            <h3>Summary of Skills</h3>
+            <ul>
+<li>HTML, JavaScript, TypeScript, CSS, SASS, MySql, PostgreSql, GraphQl</li>
+<li>VueJs, ReactJs, JQuery, Flutter</li>
+<li>Vuex, Redux</li>
+<li>Axios, Ajax</li>
+<li>Bootstrap, TailwinCSS, ElementUI, Ant Design, Material UI</li>
+<li>Laravel, Koa, AdonisJs</li>
+<li>Fixer.io, ZoomAPI, Stripe</li>
+<li>Wordpress</li>
+<li>VSCode, Sublime</li>
+<li>Git, Docker</li>
+<li>Github, Gitlab, Bitbucket</li>
+<li>Jira,Trello</li>
+<li>Figma, Sketch</li>
+<li>Agile Scrum</li>
+<li>Google Analytics, Google Tag Manager</li>
+<li>Microservices, MicrofrontEnd, SPA</li>
+</ul>
 
-            <h3>Web Developer</h3>
-            <p>Company name: Wells Fargo</p>
-            <p>Dates Employed Aug 2016 – Oct 2018</p>
-            <p>Duration: 2 yrs 3 mos</p>
           </div>
         </div>
       </div>
