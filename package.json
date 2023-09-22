@@ -2,7 +2,7 @@
   "name": "react-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://geotechee.com/",
+  "homepage": "https://geovica.github.io/my-portfolio/",
   "scripts": {
     "start": "node scripts/start.js",
     "start:prod": "ENV=prod node scripts/start.js",
@@ -10,7 +10,8 @@
     "prebuild": "npm run clean",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "autoprefixer": "7.1.6",
@@ -35,7 +36,7 @@
     "extract-text-webpack-plugin": "3.0.2",
     "file-loader": "1.1.5",
     "fs-extra": "3.0.1",
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
     "object-assign": "4.1.1",
